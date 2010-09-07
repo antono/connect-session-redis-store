@@ -1,0 +1,9 @@
+[submodule "support/expresso"]
+	path = support/expresso
+	url = git://github.com/visionmedia/expresso.git
+[submodule "support/connect"]
+	path = support/connect
+	url = git://github.com/senchalabs/connect.git
+[submodule "support/redis-node-client"]
+	path = support/redis-node-client
+	url = http://github.com/fictorial/redis-node-client.git
