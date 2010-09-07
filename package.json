@@ -1,7 +1,7 @@
 {
   "name": "connect-session-redis-store",
-  "description": "Store Connect sessions in Redis",
-  "version": "0.0.1",
+  "description": "Redis Store for Connect sessions",
+  "version": "0.0.2",
   "main": "./lib/connect-session-redis-store.js",
   "contributors": [ 
     { "name": "Antono Vasiljev", "email": "antono.vasiljev@gmail.com" }

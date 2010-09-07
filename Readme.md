@@ -3,7 +3,7 @@
 ## Installation
 
     
-    TODO: $ npm install connect-session-redis-store
+    $ npm install connect-session-redis-store
 
     $ sudo apt-get install redis-server
     $ sudo service redis-server start
